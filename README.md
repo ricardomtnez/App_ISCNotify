@@ -31,5 +31,5 @@ Software utilizado:
 -Dart language (Version 2.16.1).
 <div>
 <p>Screen del Splash.</p>
-<img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Splash.jpg" width="240" height="600" title="Github Logo">
+<img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Splash.jpg" width="240" height="500" title="Github Logo">
 </div>
