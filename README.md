@@ -31,4 +31,4 @@ Software utilizado:
 -Dart language (Version 2.16.1).
 
 Screen del Splash.
-![cat]()
+![cat](https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Splash.jpg)
