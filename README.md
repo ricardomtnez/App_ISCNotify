@@ -29,7 +29,7 @@ Software utilizado:
 -MySQL (Version 8.0).
 -Apache Server (Version 8.1.2).
 -Dart language (Version 2.16.1).
-
-Screen del Splash.
-<img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Splash.jpg" width="480" height="600" title="Github Logo">
-
+<div>
+<p>Screen del Splash.</p>
+<img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Splash.jpg" width="240" height="600" title="Github Logo">
+</div>
