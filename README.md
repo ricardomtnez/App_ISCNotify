@@ -32,7 +32,7 @@ Software utilizado:
 
 Screens de la aplicación:
 
-<p align="left">Screen del Splash.</p>
+<p align="left">      Screen del Splash.                    Screen de Login.</p>
 <p align="center">
   <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Splash.jpg" width="220" height="480" title="Github Logo">
   <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Login.jpg" width="220" height="480" title="Github Logo">
