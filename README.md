@@ -36,7 +36,7 @@ Screens de la aplicación:
 <p align="left">
   <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Splash.jpg" width="220" height="480" title="Github Logo">
   </p>
-  <p align="left">Screen del Splash.</p>
-<p align="left">
+  <p align="center">Screen del Splash.</p>
+<p align="center">
   <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Login.jpg" width="220" height="480" title="Github Logo">
   </p>
