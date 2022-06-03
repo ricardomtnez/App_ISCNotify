@@ -31,12 +31,26 @@ Software utilizado:
 -Dart language (Version 2.16.1).
 
 Screens de la aplicación:
+Screen de Splash.
+Screen de Login.
+Screen de validación de logín.
+Screen del Dashboard.
 
-<p>      Screen del Splash.                    Screen de Login.</p>
 <p align="center">
   <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Splash.jpg" width="220" height="480" title="Github Logo">
   <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Login.jpg" width="220" height="480" title="Github Logo">
   <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Validacion_Login.jpg" width="220" height="480" title="Github Logo">
   <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Dashboard.jpg" width="220" height="480" title="Github Logo">
+</p>
+
+Screen de Notificaciones.
+Screen de Perfil.
+Screen del Actualización de datos.
+Screen de Acerca de.
+<p align="center">
+  <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Notificaciones.jpg" width="220" height="480" title="Github Logo">
+  <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Perfil.jpg" width="220" height="480" title="Github Logo">
+  <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Actualizacion_Datos.jpg" width="220" height="480" title="Github Logo">
+  <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Acercade.jpg" width="220" height="480" title="Github Logo">
 </p>
 
