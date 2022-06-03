@@ -36,5 +36,7 @@ Screens de la aplicación:
 <p align="center">
   <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Splash.jpg" width="220" height="480" title="Github Logo">
   <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Login.jpg" width="220" height="480" title="Github Logo">
+  <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Validacion_Login.jpg" width="220" height="480" title="Github Logo">
+  <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Dashboard.jpg" width="220" height="480" title="Github Logo">
 </p>
 
