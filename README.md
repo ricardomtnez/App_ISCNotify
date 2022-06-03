@@ -33,30 +33,32 @@ Software utilizado:
 Screens de la aplicación:
 Screen de Splash,
 Screen de Login,
-Screen de validación de login,
-Screen del Dashboard.
+Screen de validación de login.
 
 <p align="center">
   <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Splash.jpg" width="220" height="480" title="Github Logo">
   <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Login.jpg" width="220" height="480" title="Github Logo">
   <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Validacion_Login.jpg" width="220" height="480" title="Github Logo">
-  <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Dashboard.jpg" width="220" height="480" title="Github Logo">
 </p>
 
+Screen del Dashboard.
 Screen de Notificaciones,
-Screen de Perfil,
-Screen del Actualización de datos,
-Screen de Acerca de.
+Screen de Perfil.
 <p align="center">
+  <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Dashboard.jpg" width="220" height="480" title="Github Logo">
   <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Notificaciones.jpg" width="220" height="480" title="Github Logo">
   <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Perfil.jpg" width="220" height="480" title="Github Logo">
-  <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Actualizacion_Datos.jpg" width="220" height="480" title="Github Logo">
-  <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Acercade.jpg" width="220" height="480" title="Github Logo">
 </p>
 
-Screen de Botones de salir y Screen de Alerta de salir con el botón nativo.
+Screen del Actualización de datos,
+Screen de Acerca de, Screen de Botones de salir. 
 <p align="center">
+  <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Actualizacion_Datos.jpg" width="220" height="480" title="Github Logo">
+  <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Acercade.jpg" width="220" height="480" title="Github Logo">
   <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Botones_Salir.jpg" width="220" height="480" title="Github Logo">
+</p>
+Screen de Alerta de salir con el botón nativo.
+<p align="center">
   <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Alerta_BtnNativo.jpg" width="220" height="480" title="Github Logo">
 </p>
 
