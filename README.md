@@ -29,16 +29,9 @@ Software utilizado:
 -MySQL (Version 8.0).
 -Apache Server (Version 8.1.2).
 -Dart language (Version 2.16.1).
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-<div class="container">
-  <div class="row">
-    <div class="col-md-4">
-  <p>Screen del Splash.</p>
+
+Screens de la aplicación:
+
+<p align="center">Screen del Splash.
   <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Splash.jpg" width="220" height="480" title="Github Logo">
-      </div>
-     <div class="col-md-4">
-  <p>Screen del Splash.</p>
-  <img src="https://github.com/ricardomtnez/App_ISCNotify/blob/main/Resources/Login.jpg" width="220" height="480" title="Github Logo">
-  </div>
-    </div>
-</div>
+  </p>
